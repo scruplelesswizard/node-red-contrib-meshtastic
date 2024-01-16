@@ -1,4 +1,4 @@
-# Repo name
+# node-red-contrib-meshtastic
 
 [![CLA assistant](https://cla-assistant.io/readme/badge/meshtastic/node-red-contrib-meshtastic)](https://cla-assistant.io/meshtastic/node-red-contrib-meshtastic)
 [![Fiscal Contributors](https://opencollective.com/meshtastic/tiers/badge.svg?label=Fiscal%20Contributors&color=deeppink)](https://opencollective.com/meshtastic/)
